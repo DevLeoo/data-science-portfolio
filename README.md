@@ -20,7 +20,7 @@ Typescript is my official work tool, but **python is my passion and data science
 
 
 ## Projetos:
-* ** Working on it! :D
+* Working on it! :D
 ---
 
 
