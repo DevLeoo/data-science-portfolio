@@ -11,7 +11,7 @@ Currently I work as a backend developer, dealing directly with SQL and NoSQL dat
 
 Typescript is my official work tool, but *python is my passion and data science is what fascinates* me, so I always try to improve myself in these concepts so that with dedication and hard work I can achieve my personal goals.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Node, Typescript, Javascript, Databases, Cloud Computing and others.
 
 **Links:**
 # * [Blog](http://sigmoidal.ai)
