@@ -14,9 +14,8 @@ Typescript is my official work tool, but **python is my passion and data science
 **Background in:** Python, Node, Typescript, Javascript, Databases, Cloud Computing and others.
 
 **Links:**
-# * [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/)
-# * [Medium](https://www.medium.com)
+
 
 
 ## Projetos:
