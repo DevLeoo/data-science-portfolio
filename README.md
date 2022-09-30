@@ -7,7 +7,7 @@
 # Leonardo Teixeira
 <sub>*Data Science Enthusiast*</sub>
 
-Currently I work as a backend developer, dealing directly with SQL and NoSQL databases, Cloud Computing, DevOps, agile methods and others. I love what I do, but above all I am aware that the work is here to be done! 
+Currently I work as a backend developer, dealing directly Node JS, **Typescript** with **SQL and NoSQL databases**, **Cloud Computing**, DevOps, agile methods and others. I love what I do, but above all I am aware that the work is here to be done! 
 
 Typescript is my official work tool, but **python is my passion and data science is what fascinates me** , so I always try to improve myself in these concepts so that with dedication and hard work I can achieve my personal goals.
 
