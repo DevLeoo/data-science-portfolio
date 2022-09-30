@@ -11,16 +11,21 @@ Currently I work as a backend developer, dealing directly with SQL and NoSQL dat
 
 Typescript is my official work tool, but **python is my passion and data science is what fascinates me** , so I always try to improve myself in these concepts so that with dedication and hard work I can achieve my personal goals.
 
-**Background in:** Python, Node, Typescript, Javascript, Databases, Cloud Computing and others.
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/)
-
+**Background in:** Python, Node, Typescript, Javascript, Databases SQL and NoSQL, Cloud Computing and others.
 
 
 ## Projetos:
-* Working on it! :D
+* **Panorama COVID-19 no Brasil:** https://bit.ly/3rrL7tj
+* **Análise dos dados do Airbnb:** - Florença:** https://bit.ly/3ftNoSe
 ---
+
+
+###Fale comigo
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/)
+* [Medium](https://medium.com/@leonardo.leotc)
+* [Instagram](https://www.instagram.com/_leotc/)
 
 
 
