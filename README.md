@@ -16,7 +16,7 @@ Typescript is my official work tool, but **python is my passion and data science
 
 ## Projetos:
 * **Panorama COVID-19 no Brasil:** https://bit.ly/3rrL7tj
-* **Análise dos dados do Airbnb:** - Florença:** https://bit.ly/3ftNoSe
+* **Análise dos dados do Airbnb - Florença:** https://bit.ly/3ftNoSe
 ---
 
 
