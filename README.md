@@ -14,13 +14,13 @@ Typescript is my official work tool, but **python is my passion and data science
 **Background in:** Python, Node, Typescript, Javascript, Databases SQL and NoSQL, Cloud Computing and others.
 
 
-## Projetos:
-* **Panorama COVID-19 no Brasil:** https://bit.ly/3rrL7tj
-* **Análise dos dados do Airbnb - Florença:** https://bit.ly/3ftNoSe
+## Projects:
+* **Panorama of COVID-19 in Brazil:** https://bit.ly/3rrL7tj
+* **Analysis of Airbnb data for Florença, Italy:** https://bit.ly/3ftNoSe
 ---
 
 
-### Fale comigo
+### Contact me
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/)
