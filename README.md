@@ -20,7 +20,7 @@ Typescript is my official work tool, but **python is my passion and data science
 ---
 
 
-###Fale comigo
+### Fale comigo
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/)
