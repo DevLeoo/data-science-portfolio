@@ -17,6 +17,7 @@ Typescript is my official work tool, but **python is my passion and data science
 ## Projects:
 * **Panorama of COVID-19 in Brazil:** https://bit.ly/3rrL7tj
 * **Analysis of Airbnb data for Florença, Italy:** https://bit.ly/3ftNoSe
+* **Credit card fraud detection:** https://bit.ly/3TcquxR
 ---
 
 
